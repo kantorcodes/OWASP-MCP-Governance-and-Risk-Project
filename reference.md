@@ -12,6 +12,7 @@ These links appear in the [MCP Governance & Risk Framework v1.0](mcp-governance-
 | Resource | URL |
 |----------|-----|
 | MCP Specification | https://spec.modelcontextprotocol.io/ |
+| MCP Specification (2026-07-28) | https://modelcontextprotocol.io/specification/2026-07-28 |
 | MCP Authorization Specification (2025-11-25) | https://spec.modelcontextprotocol.io/specification/2025-11-25/basic/authorization/ |
 | MCP Security Best Practices | https://modelcontextprotocol.io/specification/draft/basic/security_best_practices |
 | OWASP MCP Top 10 | https://owasp.org/www-project-mcp-top-10/ |
@@ -48,6 +49,7 @@ These links appear in the [MCP Governance & Risk Framework v1.0](mcp-governance-
 | Model Context Protocol (main site)                    | [https://modelcontextprotocol.io/](https://modelcontextprotocol.io/)                                                                                                             |
 | MCP documentation index (`llms.txt`)                  | [https://modelcontextprotocol.io/llms.txt](https://modelcontextprotocol.io/llms.txt)                                                                                             |
 | MCP Specification (spec site)                         | [https://spec.modelcontextprotocol.io/](https://spec.modelcontextprotocol.io/)                                                                                                   |
+| MCP Specification (2026-07-28)                        | [https://modelcontextprotocol.io/specification/2026-07-28](https://modelcontextprotocol.io/specification/2026-07-28)                                                                 |
 | MCP Specification (2025-11-25)                        | [https://spec.modelcontextprotocol.io/specification/2025-11-25/](https://spec.modelcontextprotocol.io/specification/2025-11-25/)                                                 |
 | MCP Authorization (2025-11-25)                        | [https://modelcontextprotocol.io/specification/2025-11-25/basic/authorization](https://modelcontextprotocol.io/specification/2025-11-25/basic/authorization)                     |
 | MCP Authorization (spec site, 2025-11-25)             | [https://spec.modelcontextprotocol.io/specification/2025-11-25/basic/authorization/](https://spec.modelcontextprotocol.io/specification/2025-11-25/basic/authorization/)         |
